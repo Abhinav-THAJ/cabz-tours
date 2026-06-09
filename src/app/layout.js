@@ -2,6 +2,13 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
+export const viewport = {
+  themeColor: '#D4AF37',
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+};
+
 export const metadata = {
   metadataBase: new URL('https://cabztours.com'),
   title: {
@@ -13,9 +20,6 @@ export const metadata = {
   authors: [{ name: "Cabz Tours" }],
   creator: "Cabz Tours",
   publisher: "Cabz Tours",
-  alternates: {
-    canonical: '/',
-  },
   robots: {
     index: true,
     follow: true,
