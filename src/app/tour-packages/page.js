@@ -1,7 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Cabz Tours | TourPackages',
+  title: 'Best Kerala Tour Packages | Munnar, Alleppey & More',
+  description: 'Discover the best Kerala tour packages with Cabz Tours. Explore Munnar, Alleppey backwaters, Kochi, Wayanad, and spiritual pilgrimage destinations.',
 };
 
 export default function TourPackages() {

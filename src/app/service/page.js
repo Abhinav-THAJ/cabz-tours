@@ -1,7 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Cabz Tours | Service',
+  title: 'Our Services | Tour Packages, Pilgrimage & Taxi in Kerala',
+  description: 'Explore our wide range of services including Kerala tour packages, pilgrimage tours, weekend getaways, outstation taxis, and 9/12/17 seater travellers.',
 };
 
 export default function Service() {

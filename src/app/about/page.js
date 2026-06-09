@@ -1,7 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Cabz Tours | About',
+  title: 'About Cabz Tours | Travel Agency in Kozhikode',
+  description: 'Learn about Cabz Tours, the leading travel agency in Kozhikode offering safe, affordable, and fully customizable Kerala tour packages and taxi services.',
 };
 
 export default function About() {

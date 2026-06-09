@@ -1,7 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Cabz Tours | Contact',
+  title: 'Contact Cabz Tours | Book Your Kerala Taxi & Tours',
+  description: 'Get in touch with Cabz Tours. Book your Kerala tour packages, outstation taxi, or airport pickup. 24/7 customer support available at +91 97443 12600.',
 };
 
 export default function Contact() {
