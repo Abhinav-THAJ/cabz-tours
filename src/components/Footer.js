@@ -10,10 +10,10 @@ export default function Footer() {
               <img src="/images/ai-logo.png" alt="Cabz Tours" style={{height: '50px', marginBottom: '22px'}} />
               <p>Turning Every Trip into a Beautiful Memory. Your trusted travel partner for premium tour packages and taxi services across Kerala.</p>
               <div className="social-links">
-                <a href="#" className="social-icon"><i className="fa-brands fa-facebook-f"></i></a>
-                <a href="#" className="social-icon"><i className="fa-brands fa-x-twitter"></i></a>
-                <a href="https://www.instagram.com/cabz_tours/" target="_blank" rel="noreferrer" className="social-icon"><i className="fa-brands fa-instagram"></i></a>
-                <a href="#" className="social-icon"><i className="fa-brands fa-youtube"></i></a>
+                <a href="#" className="social-icon" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
+                <a href="#" className="social-icon" aria-label="Twitter"><i className="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.instagram.com/cabz_tours/" target="_blank" rel="noreferrer" className="social-icon" aria-label="Instagram"><i className="fa-brands fa-instagram"></i></a>
+                <a href="#" className="social-icon" aria-label="YouTube"><i className="fa-brands fa-youtube"></i></a>
               </div>
             </div>
             <div className="footer-col">

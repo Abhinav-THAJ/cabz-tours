@@ -65,10 +65,10 @@ export default function Contact() {
 
           <h4 style={{marginBottom: '16px', fontSize: '15px', textTransform: 'uppercase', letterSpacing: '1px'}}>Follow Our Social Media</h4>
           <div className="social-links">
-            <a href="#" className="social-icon"><i className="fa-brands fa-facebook-f"></i></a>
-            <a href="#" className="social-icon"><i className="fa-brands fa-x-twitter"></i></a>
-            <a href="https://www.instagram.com/cabz_tours/" target="_blank" className="social-icon"><i className="fa-brands fa-instagram"></i></a>
-            <a href="#" className="social-icon"><i className="fa-brands fa-youtube"></i></a>
+            <a href="#" className="social-icon" aria-label="Facebook"><i className="fa-brands fa-facebook-f"></i></a>
+            <a href="#" className="social-icon" aria-label="Twitter"><i className="fa-brands fa-x-twitter"></i></a>
+            <a href="https://www.instagram.com/cabz_tours/" target="_blank" className="social-icon" aria-label="Instagram"><i className="fa-brands fa-instagram"></i></a>
+            <a href="#" className="social-icon" aria-label="YouTube"><i className="fa-brands fa-youtube"></i></a>
           </div>
         </div>
 
